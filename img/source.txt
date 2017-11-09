@@ -1,0 +1,13 @@
+energy_harvesting_block_diagram.png [2017-10-28 online]:
+http://www.mae.cornell.edu/research/groups/lims/research/lab_on_a_bird.cfm
+
+Energy-harvesting.png [2017-10-28 online]:
+http://electronicsmaker.com/energy-harvesting-for-iot-wireless-applications
+
+consuption-of-comunication-tech.jpg [2017-10-28 online]:
+https://www.linkedin.com/pulse/20141109030704-28901359-iot-connecting-the-dots-part-1
+->
+https://media.licdn.com/mpr/mpr/p/1/005/099/09d/30b75a1.jpg
+->
+https://goo.gl/exzYSa
+
